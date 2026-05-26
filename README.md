@@ -1,6 +1,6 @@
 # Static PNG Hosting
 
-Minimalstruktur, um drei PNG-Dateien per GitHub Pages aus dem `docs/`-Ordner zu veroeffentlichen. Dieses Repository enthaelt nur neutrale statische Dateien.
+Minimalstruktur, um PNG-Dateien per GitHub Pages aus dem `docs/`-Ordner zu veroeffentlichen. Dieses Repository enthaelt nur neutrale statische Dateien.
 
 ## Struktur
 
@@ -11,7 +11,9 @@ docs/
   images/
     chef_illustration.png
     hero_1_neural.png
+    hero_home_poc.png
     hero_outro.png
+    hero_outro_poc.png
 ```
 
 ## GitHub Pages aktivieren
@@ -27,5 +29,7 @@ Die PNGs sind danach direkt erreichbar unter:
 ```text
 https://<user>.github.io/<repo>/images/chef_illustration.png
 https://<user>.github.io/<repo>/images/hero_1_neural.png
+https://<user>.github.io/<repo>/images/hero_home_poc.png
 https://<user>.github.io/<repo>/images/hero_outro.png
+https://<user>.github.io/<repo>/images/hero_outro_poc.png
 ```
